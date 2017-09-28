@@ -1,0 +1,6 @@
+/Users/Timor/Projects/NumMe2.0/NumMe2.0/bin/Debug/NumMe2.0.exe
+/Users/Timor/Projects/NumMe2.0/NumMe2.0/bin/Debug/NumMe2.0.pdb
+/Users/Timor/Projects/NumMe2.0/NumMe2.0/obj/x86/Debug/NumMe2.0.csprojResolveAssemblyReference.cache
+/Users/Timor/Projects/NumMe2.0/NumMe2.0/obj/x86/Debug/NumMe2.0.csproj.CoreCompileInputs.cache
+/Users/Timor/Projects/NumMe2.0/NumMe2.0/obj/x86/Debug/NumMe2.0.exe
+/Users/Timor/Projects/NumMe2.0/NumMe2.0/obj/x86/Debug/NumMe2.0.pdb

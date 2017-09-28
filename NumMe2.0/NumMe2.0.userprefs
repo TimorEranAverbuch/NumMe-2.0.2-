@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{B6482ED6-D6BD-493B-88E2-00DBD7B0612F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="NumMe2.0/MainWindow.cs">
+    <Files>
+      <File FileName="NumMe2.0/MainWindow.cs" Line="10" Column="17" />
+      <File FileName="NumMe2.0/Properties/AssemblyInfo.cs" Line="20" Column="30" />
+      <File FileName="NumMe2.0/Program.cs" Line="14" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="NumMe2.0" expanded="True">
+            <Node name="NumMe2.0" expanded="True">
+              <Node name="UserInterface" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="MainWindow.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.NumMe2.0 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
